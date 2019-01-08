@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WU18_Inlamning_NikolaMaljenovic", "WU18_Inlamning_NikolaMaljenovic\WU18_Inlamning_NikolaMaljenovic.csproj", "{42E28F8B-ECBD-4BE4-B278-64D82A3DA3CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Characters", "Vehicles_Library\Characters.csproj", "{FBE00EF1-5A78-4954-BFAA-B8E9EA26E261}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{42E28F8B-ECBD-4BE4-B278-64D82A3DA3CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42E28F8B-ECBD-4BE4-B278-64D82A3DA3CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42E28F8B-ECBD-4BE4-B278-64D82A3DA3CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBE00EF1-5A78-4954-BFAA-B8E9EA26E261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE00EF1-5A78-4954-BFAA-B8E9EA26E261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE00EF1-5A78-4954-BFAA-B8E9EA26E261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE00EF1-5A78-4954-BFAA-B8E9EA26E261}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
